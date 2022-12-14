@@ -1,0 +1,8 @@
+#Pycharm stuff
+.idea/
+
+#Misc
+frappe-bench/*
+
+#env files
+**.env
